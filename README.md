@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Myself Jishnu P S 😊
+### Myself Jishnu P S 😊
 
 
 - 🔭 I’m currently working on Web development
