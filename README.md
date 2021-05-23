@@ -1,5 +1,4 @@
-![ProfileVisit](http://hits.dwyl.com/psjishnu/psjishnu.svg)
-
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=psjishnu'></p>
 
 ### Hi there 👋
 
