@@ -5,7 +5,7 @@
 ### Myself Jishnu P S 😊
 
 
-- 🔭 I’m currently working on Web development
+- 🔭 I’m currently working at Litmus7 as a UI developer
 - 🌱 I’m currently learning cloud computing
 - 👯 I’m looking to collaborate on various open source projects 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/jishnupsreekumar/) , [Linkedin](https://www.linkedin.com/in/jishnupsreekumar/)
